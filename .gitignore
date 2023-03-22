@@ -4,5 +4,5 @@ output/
 .gradle/
 .project
 .settings/
-.target/**
+target/**
 build/
